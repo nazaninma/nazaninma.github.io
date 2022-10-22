@@ -9,22 +9,10 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
-|----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
-|----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
-
-
-
-|     |    |**Education**                                                               |
+|     |    |**Education**                                                                     |
 |-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2019 |2021| **high school**,Farzanegan 1 , Bandar Abbas                                      |
 |-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
+|2016 |2018| **middle school**, Farzanegan 1 , Bandar Abbas                                   |
 |-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+|2010 |2015| **elementary school**,Poyesh 1 , Bandar Abbas                                      |

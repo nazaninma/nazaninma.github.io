@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses/
-title: Courses
-tags: [Studying, courses]
+permalink: /movies/
+title: my favorite movies
+tags: [movies]
 modified: 9-14-2019
 comments: false
 ---
