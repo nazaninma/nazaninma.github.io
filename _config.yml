@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "نازنین محمودی "
 title_separator          : "-"
 name                     : "Nazanin" 
-description              : "Welcome to my web site."
+description              : "Welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nazanin Mahmoodi"
+  name             : "Nazanin Mahmoodi :innocent: "
   avatar           : "/assets/images/4.jpg"
-  bio              : I'm a computer engineer in iust university.
+  bio              : "I'm a computer engineer in iust university :blush:"  .
   location         : "تهران"
   email            : n.m@gmail.com
   twitter: n.m
