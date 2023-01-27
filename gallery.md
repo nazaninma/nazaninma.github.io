@@ -7,4 +7,4 @@ tags: [gallery]
 modified: 4-1-2023
 comments: false
 ---
-  ![nazanin](/assets/images/n.jpg)
+![nazanin](/assets/images/n.jpg)
