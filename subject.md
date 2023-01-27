@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
+permalink: /hobbies/
 title: My favorite subjects
 tags: [subjects]
 modified: 4-10-2019
