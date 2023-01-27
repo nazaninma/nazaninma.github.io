@@ -6,8 +6,6 @@ main:
     url: /cv/
   - title: "books"
     url: /books/
-  - title: "Friends"
-    url: /friends/
   - title: "movies"
     url: /movies/
   - title: "Hobbies"
